@@ -1,0 +1,146 @@
+ /* Inserta tu codigo aqui */
+
+
+/*------ NOostros--------*/
+.nosotros{
+	margin-top: 90px;
+	background-image: url(../img/dance_7.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-size: 150%;
+	background-position: 0px -112px;
+	height: 460px;
+
+}
+
+.texto{
+	width: 500px;
+	height: 200px;
+	color: #C3C6C5;
+	text-align: center;
+	position: relative;
+	top:130px;
+	left: 430px;
+	padding: 30px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+/*-----pilares----*/
+
+.pilares{
+	background-image: url(../img/cubes.png);
+	background-repeat: repeat;
+	padding-top: 100px;
+	padding-bottom: 100px;
+
+}
+
+.pilares h1 {
+	
+}
+
+.pilares p {
+
+} 
+
+/* ----- instructores ----*/
+
+.instructores{
+	padding: 100px;
+}
+.instructores h1 {
+	font-family: Montserrat;
+	font-size: 15px;
+	color: #4A5776;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+.instructores .row {
+	padding-bottom: 0px;
+}
+
+.col-3 div{
+	width: 250px;
+	height: 200px;
+	background-position: 0px 20px;
+	margin-right: 10px;
+}
+
+.instructores h1 p{
+	margin-top: 200px;
+	text-align: left;
+
+}
+
+.profesor1{
+	
+	background-image: url(../img/profesor_4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	
+}
+
+.profesor2 {
+	background-image: url(../img/profesor_14.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.profesor3 {
+	background-image: url(../img/profesor_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.profesor4 {
+	background-image: url(../img/profesor_10.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.profesor5 {
+	background-image: url(../img/profesor_11.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.profesor6 {
+	background-image: url(../img/profesor_12.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.profesor7 {
+	background-image: url(../img/profesor_9.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.profesor8 {
+	background-image: url(../img/profesor_15.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+/*------frase......*/ 
+
+.frase{
+	background-image: url(../img/cubes.png);
+	background-repeat: repeat;
+	padding-bottom: 100px;
+}
+
+.frase p {
+	padding-top: 50px;
+	padding-bottom: 70px;
+	font-size: 40px;
+	width: 850px;
+	height: 40px;
+	margin: auto;
+}
+

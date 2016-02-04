@@ -1,0 +1,90 @@
+/* Inserta tu codigo aqui */
+.oferta{
+	padding-top: 180px;
+	padding-right: 90px;
+	padding-left: 160px;
+}
+
+.oferta h1 {
+	font-family: Montserrat;
+	font-size: 15px;
+	color: #C3C6C5;
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+
+
+ .opaca  {
+ 	width: 280px;
+ 	height: 100px;
+ 	color: #C3C6C5;
+ 	background-color: rgba(0, 0, 0, 0.5);
+ 	position: relative;
+ 	left: 10px;
+ 	bottom: 250px;
+ }
+
+.imagen1{
+	
+	background-image: url(../img/dance_12.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;	
+	width: 300px;
+	height: 400px;
+	background-position: 0px 20px;
+	margin-right: 10px;
+}
+
+.imagen2 {
+	background-image: url(../img/breakdance.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+	background-position: 0px 20px;
+	margin-right: 10px;
+
+}
+
+.imagen3 {
+	background-image: url(../img/lirical-jazz.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+	background-position: 0px 20px;
+	margin-right: 10px;
+}
+
+.imagen4 {
+	background-image: url(../img/arabe.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+	background-position: 0px 20px;
+	margin-right: 10px;
+
+}
+
+.imagen5 {
+	background-image: url(../img/little.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+	background-position: 0px 20px;
+	margin-right: 10px;
+
+}
+.imagen6 {
+	background-image: url(../img/yoga.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+	background-position: 0px 20px;
+	margin-right: 10px;
+
+}

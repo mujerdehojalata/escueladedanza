@@ -1,0 +1,337 @@
+/* Inserta tu codigo aqui */
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+/*----------------------header-------------------------*/
+header{
+
+	position: fixed;
+	top:0;
+	width: 100%;
+	height: 129px;
+	background-color: white;
+	z-index:6; 
+
+}
+/*------titulo--------*/
+
+.titulo{
+	font-family: Montserrat;
+	font-size: 25px;
+	color: #4A5776;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: white;
+	width: 100%;
+}
+
+/* .------ nav ...*/
+
+
+.nav ul {
+    list-style-type: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0px;
+   
+    background-color: white;
+    width: 100%;
+}
+
+.nav li {
+	margin-top: 20px;
+	display: inline-block;
+}
+
+.nav li a {
+    display: block;
+    color: #A29793;
+    text-align: center;
+    padding-right: 35px;
+    padding-left: 35px;
+    text-decoration: none;
+}
+
+/*------ studio--------*/
+.studio{
+	margin-top: 90px;
+	background-image: url(../img/dance_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0px 40px;
+	height: 400px;
+
+}
+
+.texto{
+	width: 300px;
+	height: 200px;
+	color: #C3C6C5;
+	text-align: left;
+	position: relative;
+	top: 100px;
+	left: 60px;
+
+}
+
+
+.studio h1{
+	font-size: 90px;
+	text-align: left;
+		
+}
+
+.studio p {
+	font-size: 12px;
+	width: 180px;
+	text-align: left;
+		
+	
+}
+
+.inscribete {
+	margin-top: 20px;
+	width: 100px;
+	height: 30px;
+	background-color: #020D1C; 
+		
+}
+
+.inscribete a{
+	text-decoration: none;
+	color: #C3C6C5;
+	font-size: 12px;
+	padding: 20px;	
+}
+/*-----oferta de clases----*/
+
+.oferta{
+	background-image: url(../img/textura_2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 100px;
+}
+
+.oferta p {
+	padding-top: 50px;
+	font-size: 25px;
+	width: 800px;
+	height: 40px;
+	margin: auto;
+}
+.oferta img {
+	margin-top: 100px;
+	padding-top: 40px;
+	width: 10%;
+	margin: auto;
+}
+
+
+.oferta div {
+	margin-top: 120px;
+	width: 400px;
+	height: 50px;
+	border-radius: 3%;
+	background-color: #192951;	
+	margin: auto;
+
+}
+
+.oferta a{
+	text-decoration: none;
+	color: white;
+	position: relative;
+	top: 10px;
+}
+/* ----- instructores ----*/
+
+.instructores .col-6 {
+	height: 270px;
+	border: 2px solid #202F56;
+}
+
+.fondo1 {
+	background-image: url(../img/instructor_4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0px -10px;
+}
+
+.fondo2{
+	background-image: url(../img/profesor_9.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0px -10px;
+	position: relative;
+	left: -1px;
+
+}
+
+.botoninst{
+	position: relative;
+	top: -49px;
+}
+
+.instructores a {
+	border-radius: 3px;
+	background-color: #192951;
+	text-decoration: none;
+	color: #CBCBC2;
+	padding: 30px 160px;
+}
+
+/*------frase......*/ 
+
+.frase{
+	background-image: url(../img/textura_2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 100px;
+}
+
+.frase p {
+	padding-top: 50px;
+	padding-bottom: 70px;
+	font-size: 40px;
+	width: 850px;
+	height: 40px;
+	margin: auto;
+}
+/*------ubicacion -----*/
+ 
+.ubicacion{
+	background-color: #192951;
+} 
+
+.ubicacion p{
+	margin-top: 60px;
+	width: 400px;
+	font-size: 12px;
+	color: white;
+	text-align: left;
+}
+
+.ubicacion h1 {
+	font-size: 18px;
+	color: white;
+	text-align: left;
+	position: relative;
+	top: 30px;
+}
+
+.caja{
+	width: 180px;
+	height: 180px;
+	text-align: left;
+	position: relative;
+	top: 30px;
+	color: white;
+	font-size: 13px;
+}
+
+.ubicacion iframe{
+	margin-top: 60px;
+	margin-bottom: 60px;
+	width: 400px;
+	height: 250px;
+}
+/* ---- contactanos---*/
+
+.contactanos .row{
+	padding-top: 50px;
+	padding-bottom: 300px;
+}
+
+.form-style {
+
+}
+.contactanos {
+	background-image: url(../img/shoes_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-size: 60%;
+	background-position: 550px -40px;	
+}
+
+.contacto{
+	
+	width: 200px;
+	height: 30px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #192951;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.form-style{
+	padding-left: 40px;
+	padding-bottom: 60px;
+	padding-right: 200px;
+	margin-bottom: 10px; 
+}
+
+ #name{
+ 	border: 1px solid #DCD9D9;
+ 	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+ 	background-repeat: no-repeat;
+ 	background-size: 20px 20px;
+ }
+
+ #email {
+ 	
+ 	border: 1px solid #DCD9D9;
+ 
+ 	background-image: url((http://rexkirby.com/kirbyandson/images/email.svg);
+ 	background-repeat: no-repeat;
+ 	background-size: 20px 20px;
+ }
+ 
+ #comment{
+ 	margin-left: 10px;
+ 	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+ 	background-repeat: no-repeat;
+ 	background-size: 20px 20px;
+ 	background: rgba(255,255,255,0.0);
+ }
+
+ /*.comment textarea{
+ 	width: 430px;
+ 	height:150px;
+ 	border: 1px solid #DCD9D9;
+ 	background: rgba(255,255,255,0.0);
+ }*/
+
+ #button-send {
+ 	position: relative;
+ 	top: 20px;
+ 	right: 8px;
+ }
+ 
+ #button-send
+ {
+ 	text-decoration: none;
+ 	color: white;
+	border-radius: 2px;
+	background-color: #192951; 
+	padding: 15px 190px;
+ }
+ /* ----- footer ------------*/
+ .footer p{
+ 	padding-top: 20px;
+ 	padding-bottom: 20px;
+ 	padding-left: 20px;
+ 	text-align: left;
+ 	color: white;
+ 	background-color: #192951;
+ }
+
+
+
+
+
+
+
